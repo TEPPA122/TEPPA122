@@ -14,18 +14,10 @@ I build efficient APIs and analyze data to transform it into clear, actionable t
 ### 🛠️ Tech Stack
 
 **Backend & Data Science:**
-<a href="#"><img src="https://skillicons.dev/icons?i=python" height="40" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=fastapi" height="40" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=postgres" height="40" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=git" height="40" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=sqlalchemy" height="40" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=numpy" height="40" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=pandas" height="40" /></a>
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,postgres,git)](https://skillicons.dev)
 
 **Frontend (Learning):**
-<a href="#"><img src="https://skillicons.dev/icons?i=html" height="40" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=css" height="40" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=js" height="40" /></a>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 ---
 
