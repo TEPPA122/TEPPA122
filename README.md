@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Maxim! 👋
 
-<!--
-**TEPPA122/TEPPA122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👤 Call me: TEPPA
+**Backend Developer & Data Science Enthusiast**
 
-Here are some ideas to get you started:
+I build efficient APIs and analyze data to transform it into clear, actionable tools for decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Currently working on:** [Trading Journal] — an analytical platform for traders.
+- 🌱 **Learning:** Advanced FastAPI patterns and modern Frontend (JS/HTML/CSS) for full-stack capabilities.
+- 💬 **Ask me about:** Python, SQL, DB architecture, and trading algorithms.
+
+---
+
+### 🛠️ Tech Stack
+
+**Backend & Data Science:**
+![Tech Stack](https://skillicons.dev/icons?i=python,fastapi,postgres,sqlalchemy,numpy,pandas,git)
+
+**Frontend (Learning):**
+![Frontend](https://skillicons.dev/icons?i=html,css,js)
+
+---
+
+### 📊 My Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TEPPA122&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TEPPA122&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Connect with Me
+[![Telegram](https://img.shields.io/badge/Telegram-Trading_Channel-26A6E2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/teppathoughts)
+[![Email](https://img.shields.io/badge/Email-maksim2021bese@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maksim2021bese@gmail.com)
