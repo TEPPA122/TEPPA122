@@ -7,14 +7,14 @@ I build efficient APIs and analyze data to transform it into clear, actionable t
 
 - 🔭 **Currently working on:** [Trading Journal] — an analytical platform for traders.
 - 🌱 **Learning:** Advanced FastAPI patterns and modern Frontend (JS/HTML/CSS) for full-stack capabilities.
-- 💬 **Ask me about:** Python, SQL, DB architecture, and trading algorithms.
+- 💬 **Ask me about:** Python, SQL, DB architecture, and trading advices.
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Backend & Data Science:**
-[![My Skills](https://skillicons.dev/icons?i=py,fastapi,postgres,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,postgres,git,notion,excel)](https://skillicons.dev)
 
 **Frontend (Learning):**
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
