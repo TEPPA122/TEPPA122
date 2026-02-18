@@ -17,9 +17,6 @@ I build efficient APIs and analyze data to transform it into clear, actionable t
 <img src="https://skillicons.dev/icons?i=python" height="40" /> <img src="https://skillicons.dev/icons?i=fastapi" height="40" /> <img src="https://skillicons.dev/icons?i=postgres" height="40" /> <img src="https://skillicons.dev/icons?i=sqlalchemy" height="40" /> <img src="https://skillicons.dev/icons?i=numpy" height="40" /> <img src="https://skillicons.dev/icons?i=pandas" height="40" /> <img src="https://skillicons.dev/icons?i=git" height="40" />
 
 **Frontend (Learning):**
-<img src="https://skillicons.dev/icons?i=html" height="40" /> <img src="https://skillicons.dev/icons?i=css" height="40" /> <img src="https://skillicons.dev/icons?i=js" height="40" />
-
-**Frontend (Learning):**
 ![Frontend](https://skillicons.dev/icons?i=html,css,js)
 
 ---
