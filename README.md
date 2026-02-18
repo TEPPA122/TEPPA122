@@ -14,16 +14,13 @@ I build efficient APIs and analyze data to transform it into clear, actionable t
 ### 🛠️ Tech Stack
 
 **Backend & Data Science:**
-![Python](https://skillicons.dev/icons?i=python) ![FastAPI](https://skillicons.dev/icons?i=fastapi) ![Postgres](https://skillicons.dev/icons?i=postgres) ![SQLAlchemy](https://skillicons.dev/icons?i=sqlalchemy) ![NumPy](https://skillicons.dev/icons?i=numpy) ![Pandas](https://skillicons.dev/icons?i=pandas) ![Git](https://skillicons.dev/icons?i=git)
+<img src="https://skillicons.dev/icons?i=python" height="40" /> <img src="https://skillicons.dev/icons?i=fastapi" height="40" /> <img src="https://skillicons.dev/icons?i=postgres" height="40" /> <img src="https://skillicons.dev/icons?i=sqlalchemy" height="40" /> <img src="https://skillicons.dev/icons?i=numpy" height="40" /> <img src="https://skillicons.dev/icons?i=pandas" height="40" /> <img src="https://skillicons.dev/icons?i=git" height="40" />
+
+**Frontend (Learning):**
+<img src="https://skillicons.dev/icons?i=html" height="40" /> <img src="https://skillicons.dev/icons?i=css" height="40" /> <img src="https://skillicons.dev/icons?i=js" height="40" />
 
 **Frontend (Learning):**
 ![Frontend](https://skillicons.dev/icons?i=html,css,js)
-
----
-
-### 📊 My Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TEPPA122&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TEPPA122&layout=compact&theme=tokyonight)
 
 ---
 
