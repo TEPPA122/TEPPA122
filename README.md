@@ -13,11 +13,28 @@ I build efficient APIs and analyze data to transform it into clear, actionable t
 
 ### 🛠️ Tech Stack
 
-**Backend & Data Science:**
-<img src="https://skillicons.dev/icons?i=python" height="40" /> <img src="https://skillicons.dev/icons?i=fastapi" height="40" /> <img src="https://skillicons.dev/icons?i=postgres" height="40" /> <img src="https://skillicons.dev/icons?i=sqlalchemy" height="40" /> <img src="https://skillicons.dev/icons?i=numpy" height="40" /> <img src="https://skillicons.dev/icons?i=pandas" height="40" /> <img src="https://skillicons.dev/icons?i=git" height="40" />
-
-**Frontend (Learning):**
-<img src="https://skillicons.dev/icons?i=html" height="40" /> <img src="https://skillicons.dev/icons?i=css" height="40" /> <img src="https://skillicons.dev/icons?i=js" height="40" />
+<table>
+  <tr>
+    <td valign="top" width="100%">
+      <strong>Backend & Data Science:</strong><br />
+      <img src="https://skillicons.dev/icons?i=python" height="40" alt="python" />
+      <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi" />
+      <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres" />
+      <img src="https://skillicons.dev/icons?i=sqlalchemy" height="40" alt="sqlalchemy" />
+      <img src="https://skillicons.dev/icons?i=numpy" height="40" alt="numpy" />
+      <img src="https://skillicons.dev/icons?i=pandas" height="40" alt="pandas" />
+      <img src="https://skillicons.dev/icons?i=git" height="40" alt="git" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="100%">
+      <strong>Frontend (Learning):</strong><br />
+      <img src="https://skillicons.dev/icons?i=html" height="40" alt="html" />
+      <img src="https://skillicons.dev/icons?i=css" height="40" alt="css" />
+      <img src="https://skillicons.dev/icons?i=js" height="40" alt="js" />
+    </td>
+  </tr>
+</table>
 
 ---
 
