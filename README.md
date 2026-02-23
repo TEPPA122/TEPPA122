@@ -6,7 +6,7 @@ Age: 17 years old
 
 I build efficient APIs and analyze data to transform it into clear, actionable tools for decision-making.
 
-- 🔭 **Currently working on:** [Trading Journal] — an analytical platform for traders.
+- 🔭 **Currently working on:** [Trading Journal](https://github.com/TEPPA122) — an analytical platform for traders.
 - 🌱 **Learning:** Advanced FastAPI patterns and modern Frontend (JS/HTML/CSS) for full-stack capabilities.
 - 💬 **Ask me about:** Python, SQL, DB architecture, and trading advices.
 
