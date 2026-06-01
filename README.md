@@ -1,5 +1,5 @@
 # Hi, I'm Maxim! 👋
-Age: 17 years old
+Age: 18 years old
 
 ### 👤 Call me: TEPPA
 **Backend Developer & Data Science Enthusiast**
