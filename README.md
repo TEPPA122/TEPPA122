@@ -15,7 +15,7 @@ I build efficient APIs and analyze data to transform it into clear, actionable t
 ### 🛠️ Tech Stack
 
 **Backend & Data Science:**
-[![My Skills](https://skillicons.dev/icons?i=py,fastapi,postgres,git,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,redis,pydantic,postgres,git,notion)](https://skillicons.dev)
 
 **Frontend (Learning):**
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
